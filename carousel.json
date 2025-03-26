@@ -1,21 +1,21 @@
 [
     {
-        "image": "/static/images/slide/tameimpala.png",
+        "image": "https://i.redd.it/hz1m4qzwodv31.png",
         "title": "Tame Impala",
         "description": "Uma banda australiana de rock psicodélico liderada por Kevin Parker."
     },
     {
-        "image": "/static/images/slide/twent.png",
+        "image": "https://images7.alphacoders.com/136/1361219.jpeg",
         "title": "Twenty One Pilots",
         "description": "Duo americano conhecido por misturar rock alternativo, hip-hop e eletrônica."
     },
     {
-        "image": "/static/images/slide/gorillaz.png",
+        "image": "https://c4.wallpaperflare.com/wallpaper/603/504/22/gorillaz-2-d-murdoc-noodle-wallpaper-preview.jpg",
         "title": "Gorillaz",
         "description": "Uma banda virtual criada por Damon Albarn e Jamie Hewlett, misturando vários gêneros musicais."
     },
     {
-        "image": "/static/images/slide/linkinpark.png",
+        "image": "https://images.wallpapersden.com/image/download/linkin-park-black-and-white-wallpapers_aWVuaGmUmZqaraWkpJRobWllrWdma2U.jpg",
         "title": "Linkin Park",
         "description": "Banda icônica do nu-metal e rock alternativo, com sucessos como 'In The End'."
     },
@@ -23,5 +23,10 @@
         "image": "https://images8.alphacoders.com/136/1367323.png",
         "title": "Travis Scott",
         "description": "Jacques Berman Webster II mais conhecido por Travis Scott, é um rapper, cantor, compositor e produtor musical norte-americano."
+    },
+    {
+        "image":"https://images5.alphacoders.com/663/663469.jpg",
+        "title": "Donald Glover",
+        "description": "O artista Donald Glover ou Childish Gambino faz sucesso na indústria musical desde 2010, e rapidamente conquistou a atenção da cena hip-hop, se tornando um nome de peso do gênero. O artista já ganhou dois Emmys, dois Globos de Ouro e cinco Grammys, sendo uma das poucas pessoas que já ganharam os três prêmios. "
     }
 ]
