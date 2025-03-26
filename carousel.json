@@ -1,0 +1,22 @@
+[
+    {
+        "image": "/static/images/slide/tameimpala.png",
+        "title": "Tame Impala",
+        "description": "Uma banda australiana de rock psicodélico liderada por Kevin Parker."
+    },
+    {
+        "image": "/static/images/slide/twent.png",
+        "title": "Twenty One Pilots",
+        "description": "Duo americano conhecido por misturar rock alternativo, hip-hop e eletrônica."
+    },
+    {
+        "image": "/static/images/slide/gorillaz.png",
+        "title": "Gorillaz",
+        "description": "Uma banda virtual criada por Damon Albarn e Jamie Hewlett, misturando vários gêneros musicais."
+    },
+    {
+        "image": "/static/images/slide/linkinpark.png",
+        "title": "Linkin Park",
+        "description": "Banda icônica do nu-metal e rock alternativo, com sucessos como 'In The End'."
+    }
+]
