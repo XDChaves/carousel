@@ -12,27 +12,27 @@
         "backgroundPosition": "0 80%"
     },
     "Destaque3": {
-        "image": "https://preview.redd.it/usxfd03ykgp21.jpg?auto=webp&s=1609bc8890a8b44e91cfec80211b6efb0527992f",
+        "image": "https://preview.redd.it/vz1y6qi5fk1a1.jpg?auto=webp&s=20bb09df113c78900f5d70eb451dec3a37214a92",
         "title": "SEKIRO",
         "description": "Sekiro: Sekiro: Shadows Die Twice é um jogo de ação e aventura intenso em terceira pessoa que se passa no Japão do século XVI. Entre na pele de um guerreiro que caiu em desgraça e voltou da morte, cuja missão é salvar seu mestre e livrar Ashina das influências da linhagem divina.",
-        "backgroundPosition": "0 8%"
+        "backgroundPosition": "0 10%"
     },
     "Destaque4": {
-        "image": "https://preview.redd.it/ellie-4k-the-last-of-us-part-2-wallpaper-v0-o03kz2571hh81.png?auto=webp&s=bb1e60996b4a30857f9ead3820be52ffe50ce113",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHOjnB3PNY7u7ngZ0lmkfQ0pbg3nng0X-VU1TC_3B76Pf7_KFoX3n_5eKVoojCghO7W3s6VVMJ-gGQ4fj3ffsaP2o8Ebh5VAzZHBk-GghIwrA-KLJ0_cCJEUFQ6rZ7rPUV5mJbhKVVpags/w0/the-last-of-us-part-2-ellie-uhdpaper.com-4K-1.jpg",
         "title": "THE LAST OF US 2",
         "description": "A vida numa comunidade próspera de sobreviventes lhes trouxe paz e estabilidade, apesar da ameaça constante dos infectados e de outros sobreviventes mais desesperados. Quando um evento violento interrompe a paz, Ellie parte numa jornada incansável para fazer justiça e virar a página.",
-        "backgroundPosition": "0 60%"
+        "backgroundPosition": "0 10%"
     },
     "Destaque5": {
         "image":"https://images3.alphacoders.com/843/843016.jpg",
         "title": "GOD OF WAR",
         "description": "Muitos anos depois de Kratos desencadear o inferno na Grécia Antiga e deixar o Olimpo de joelhos, ele vive uma vida tranquila em Midgard com a sua esposa Faye e o seu filho Atreus. O jogo começa pouco depois da morte de Faye, com Kratos e Atreus a prepararem-se para realizar o seu último desejo: espalhar as suas cinzas no pico mais alto dos nove reinos.",
-        "backgroundPosition": "0 45%"
+        "backgroundPosition": "0 50%"
     },
     "Destaque6": {
         "image":"https://wallpapercat.com/w/full/3/3/e/28-3840x2160-desktop-4k-grand-theft-auto-san-andreas-wallpaper.jpg",
         "title": "GTA SAN ANDREAS",
         "description": "O jogo se passa no estado ficcional de San Andreas, com a história seguindo Carl 'CJ' Johnson em sua luta para lidar com guerras de gangues, confrontos com policiais e as relações com sua família e amigos. O mundo aberto permite que os jogadores naveguem livremente pelas áreas rurais e urbanas de San Andreas.",
-        "backgroundPosition": "0 8%"
+        "backgroundPosition": "0 12%"
     }
 }
