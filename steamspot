@@ -1,0 +1,38 @@
+{
+    "Destaque1": {
+        "image": "https://wallpapercat.com/w/full/2/a/0/650238-3840x2160-desktop-4k-tame-impala-background.jpg",
+        "title": "TAME IMPALA",
+        "description": "O Australiano Kevin Parker é o criador e vocalista do grupo Tame Impala, que para muitos ouvintes suas musicas dão uma sensação de fazer uma viagem sem sair do lugar. O próprio Kevin Park já declarou que costuma criar as canções de um jeito orgânico, embora goste de soar um pouco repetitivo e hipnótico.",
+        "backgroundPosition": "0 8%"
+    },
+    "Destaque2": {
+        "image": "https://wallpapercat.com/w/full/4/b/c/45071-2560x1440-desktop-hd-twenty-one-pilots-wallpaper-photo.jpg",
+        "title": "TWENTY ONE PILOTS",
+        "description": "Duo americano composto por Tyler Joseph e Josh Dun tendo origem em Ohio, em 2009. A banda conhecida pela mistura de ritmos e além do instrumental diferenciado tem a belíssima estrutura das canções, onde o grande foco vem das letras dramáticas feitas por Tyler, que nas composições transmite sua mensagem atraves de alter egos.",
+        "backgroundPosition": "0 28%"
+    },
+    "Destaque3": {
+        "image": "https://images7.alphacoders.com/104/1043148.jpg",
+        "title": "GORILLAZ",
+        "description": "Criada pelo britânico Damon Albarn, o mesmo da voz ao vocalista nomeado 2D, o Gorillaz tem um grande diferencial notavel logo de cara já seus integrantes são personagens animados que contam suas historias através dos albuns e de storyboards da banda. No seu primeiro album entraram para o Guinness World Records como a banda virtual de maior sucesso, o que se mantém até a atualidade.",
+        "backgroundPosition": "0 8%"
+    },
+    "Destaque4": {
+        "image": "https://images8.alphacoders.com/564/564860.jpg",
+        "title": "ARTIC MONKEYS",
+        "description": "De origem britânica formada em 2002 nos subúrbios da cidade de Sheffield, na Inglaterra. Liderada por Alex Turner, cantor e compositor, a banda é considerada uma das primeiras a ganhar atenção na internet e causaram grandes mudanças no cenário musical em como os grupos musicais pelo mundo promovem seu trabalho.",
+        "backgroundPosition": "0 28%"
+    },
+    "Destaque5": {
+        "image":"https://media-assets.vanityfair.it/photos/6245f2663080edb45e6e276d/16:9/w_2560%2Cc_limit/2022_RHCP_highres_-3206_crop.jpg",
+        "title": "RED HOT CHILI PEPPERS",
+        "description": "Formada nos Estados Unidos, em Los Angeles, na Califórnia, a banda iniciou suas atividades em 1983 chegando a ascenção rapidamente no cenário musical, injetando energia e irreverência no rock alternativo conquistando milhares de fãs com seu som único e explosivo.",
+        "backgroundPosition": "0 18%"
+    },
+    "Destaque6": {
+        "image":"https://wallpapers.com/images/featured/nirvana-4k-wvgpkpod60wrpq9z.jpg",
+        "title": "NIRVANA",
+        "description": "Formada no ano de 1987 pelo vocalista e guitarrista Kurt Cobain e pelo baixista Krist Novoselic em Aberdeen, Washington. A banda obteve um grande sucesso no movimento grunge explodindo de vez já no segundo álbum lançado, citado como um dos melhores álbuns de todos os tempos, Nevermind (1991) que consagrou o Nirvana como a principal banda da Geração X.",
+        "backgroundPosition": "0 25%"
+    }
+}
