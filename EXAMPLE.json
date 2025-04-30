@@ -1,0 +1,38 @@
+{
+    "Destaque1": {
+        "image": "https://wallpapers.com/images/hd/red-and-green-4k-pc-houses-8d7ckpaq0ee576ko.jpg",
+        "title": "Title 1",
+        "description": "Description text",
+        "backgroundPosition": "0 1%"
+    },
+    "Destaque2": {
+        "image": "https://wallpapers.com/images/hd/red-and-green-4k-pc-houses-8d7ckpaq0ee576ko.jpg",
+        "title": "Title 2",
+        "description": "Description text",
+        "backgroundPosition": "0 8%"
+    },
+    "Destaque3": {
+        "image": "https://wallpapers.com/images/hd/red-and-green-4k-pc-houses-8d7ckpaq0ee576ko.jpg",
+        "title": "Title 3",
+        "description": "Description text",
+        "backgroundPosition": "0 18%"
+    },
+    "Destaque4": {
+        "image": "https://wallpapers.com/images/hd/red-and-green-4k-pc-houses-8d7ckpaq0ee576ko.jpg",
+        "title": "Title 4",
+        "description": "Description text",
+        "backgroundPosition": "0 28%"
+    },
+    "Destaque5": {
+        "image": "https://wallpapers.com/images/hd/red-and-green-4k-pc-houses-8d7ckpaq0ee576ko.jpg",
+        "title": "Title 5",
+        "description": "Description text",
+        "backgroundPosition": "0 38%"
+    },
+    "Destaque6": {
+        "image": "https://wallpapers.com/images/hd/red-and-green-4k-pc-houses-8d7ckpaq0ee576ko.jpg",
+        "title": "Title 6",
+        "description": "Description text",
+        "backgroundPosition": "0 48%"
+    }
+}
