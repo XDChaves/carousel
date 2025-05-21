@@ -20,19 +20,19 @@
     "Destaque4": {
         "image": "https://wallpapercat.com/w/full/e/a/3/67936-3840x2160-desktop-4k-dota-2-background.jpg",
         "title": "DOTA 2",
-        "description": "Um dos MOBAs mais complexos e aclamados do mundo. Dota 2 é um gigante do eSports e um dos jogos mais jogados da Steam, com uma comunidade global massiva e torneios com premiações milionárias. Sua profundidade estratégica, a constantes atualizações e a intensa natureza competitiva garantem que ele permaneça no topo das paradas de jogadores ativos na plataforma, sendo um dos pilares do Free-to-Play.",
+        "description": "Um dos MOBAs mais complexos e aclamados do mundo. Dota 2 é um gigante do eSports e um dos jogos mais jogados da Steam, com uma comunidade global massiva e torneios com premiações milionárias. A intensa natureza competitiva garantem que ele permaneça no topo das paradas de jogadores ativos na plataforma, sendo um dos pilares do Free-to-Play.",
         "backgroundPosition": "0 8%"
     },
     "Destaque5": {
         "image":"https://images4.alphacoders.com/107/1077551.png",
         "title": "TERRARIA",
-        "description": "Terraria é um sandbox de aventura com exploração, construção e combate que oferece centenas de horas de conteúdo. Sua popularidade na Steam é lendária, com avaliações 'Extremamente Positivas' que beiram a perfeição e uma base de jogadores incrivelmente fiel que retorna a cada grande atualização. É um exemplo brilhante do poder dos jogos indie em cativar uma audiência massiva.",
+        "description": "Terraria é um sandbox de aventura com exploração, construção e combate que oferece centenas de horas de conteúdo. Sua popularidade na Steam é lendária, com avaliações 'Extremamente Positivas' que beiram a perfeição sendo um exemplo brilhante do poder dos jogos indie em cativar uma audiência massiva.",
         "backgroundPosition": "0 38%"
     },
     "Destaque6": {
         "image":"https://images8.alphacoders.com/132/1329760.jpeg",
         "title": "COUNTER STRIKE 2",
-        "description": " A evolução de um dos shooters competitivos mais influentes da história dos videogames. Counter-Strike tem sido um pilar da Steam e do cenário de eSports por décadas. Counter-Strike 2 mantém a essência do combate tático em equipe e continua a dominar os gráficos de jogadores ativos diariamente, sendo consistentemente o jogo mais jogado da plataforma, o de maior número de recomendações e de reviews positivas. .",
+        "description": " A evolução de um dos shooters competitivos mais influentes da história dos videogames. Counter-Strike tem sido um pilar da Steam e do cenário de eSports por décadas. Counter-Strike 2 mantém a essência do combate tático em equipe e continua a dominar os gráficos de jogadores ativos diariamente, sendo consistentemente o jogo mais jogado da plataforma.",
         "backgroundPosition": "0 15%"
     }
 }
