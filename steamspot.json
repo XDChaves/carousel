@@ -2,37 +2,37 @@
     "Destaque1": {
         "image": "https://wallpapercat.com/w/full/3/a/0/661-3840x2160-desktop-4k-red-dead-redemption-wallpaper-photo.jpg",
         "title": "RED DEAD REDEMPTION 2",
-        "description": "Um épico de mundo aberto que redefiniu a narrativa e a imersão em jogos de faroeste. Mesmo anos após seu lançamento, RDR2 continua a fascinar jogadores com sua história rica, gráficos impressionantes e um mundo vibrante. Na Steam, ele mantém uma base de jogadores dedicada e constantemente atrai novos fãs, provando seu apelo duradouro e sua posição como um dos melhores jogos de todos os tempos.",
+        "description": "Um épico de mundo aberto que redefiniu a narrativa e a imersão em jogos de faroeste. RDR2 fascina jogadores com sua história rica, gráficos impressionantes e um mundo vibrante. Um verdadeiro marco na industria de games, tido como um dos melhores jogos de todos os tempos.",
         "backgroundPosition": "0 8%"
     },
     "Destaque2": {
         "image": "https://images.steamusercontent.com/ugc/2058741034012526512/379E6434B473E7BE31C50525EB946D4212A8C8B3/",
         "title": "ELDEN RING",
-        "description": "Um fenômeno global que revolucionou o gênero Souls-like ao introduzir um vasto mundo aberto. Elden Ring não só ganhou inúmeros prêmios de Jogo do Ano, mas também atraiu uma legião de jogadores por sua dificuldade desafiadora, exploração gratificante e lore profunda. Na Steam, ele alcançou picos de jogadores massivos e mantém uma comunidade ativa, demonstrando seu status como um marco na indústria e um sucesso comercial estrondoso.",
+        "description": "Um fenômeno global que revolucionou e furou a bolha  do gênero Souls-like ao aprensentar um vasto mundo aberto. Elden Ring ganhou diversos prêmios de Jogo do Ano, atraiu uma legião de jogadores e continua sendo um sucesso comercial estrondoso.",
         "backgroundPosition": "0 76%"
     },
     "Destaque3": {
         "image": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700948682.jpg",
         "title": "GTA V",
-        "description": "Um titã da indústria dos games e um dos maiores fenômenos de vendas de todos os tempos. GTA V, especialmente com seu componente online GTA Online, continua a ser um dos jogos mais jogados e assistidos na Steam, anos após seu lançamento original. Sua longevidade e capacidade de manter milhões de jogadores engajados diariamente são um testemunho de seu design de mundo aberto, liberdade sem precedentes e conteúdo em constante evolução.",
+        "description": "Um titã da indústria dos games e um dos maiores fenômenos de vendas de todos os tempos. GTA V, especialmente GTA Online, continua a ser um dos jogos mais jogados e assistidos na Steam, anos após seu lançamento original. Sua longevidade e capacidade de manter milhões de jogadores engajados diariamente são um testemunho de sua grandiosidade.",
         "backgroundPosition": "0 0%"
     },
     "Destaque4": {
         "image": "https://wallpapercat.com/w/full/e/a/3/67936-3840x2160-desktop-4k-dota-2-background.jpg",
         "title": "DOTA 2",
-        "description": "Um dos MOBAs mais complexos e aclamados do mundo. Dota 2 é um gigante do eSports e um dos jogos mais jogados da Steam, com uma comunidade global massiva e torneios com premiações milionárias. Sua profundidade estratégica, a constante atualização de heróis e itens, e a intensa natureza competitiva garantem que ele permaneça no topo das paradas de jogadores ativos na plataforma, sendo um dos pilares do Free-to-Play.",
+        "description": "Um dos MOBAs mais complexos e aclamados do mundo. Dota 2 é um gigante do eSports e um dos jogos mais jogados da Steam, com uma comunidade global massiva e torneios com premiações milionárias. Sua profundidade estratégica, a constantes atualizações e a intensa natureza competitiva garantem que ele permaneça no topo das paradas de jogadores ativos na plataforma, sendo um dos pilares do Free-to-Play.",
         "backgroundPosition": "0 8%"
     },
     "Destaque5": {
         "image":"https://images4.alphacoders.com/107/1077551.png",
         "title": "TERRARIA",
-        "description": " O 'Minecraft 2D' que se tornou um fenômeno por direito próprio. Terraria é um sandbox de aventura com exploração, construção e combate que oferece centenas de horas de conteúdo. Sua popularidade na Steam é lendária, com avaliações 'Extremamente Positivas' que beiram a perfeição e uma base de jogadores incrivelmente fiel que retorna a cada grande atualização. É um exemplo brilhante do poder dos jogos indie em cativar uma audiência massiva.",
+        "description": "Terraria é um sandbox de aventura com exploração, construção e combate que oferece centenas de horas de conteúdo. Sua popularidade na Steam é lendária, com avaliações 'Extremamente Positivas' que beiram a perfeição e uma base de jogadores incrivelmente fiel que retorna a cada grande atualização. É um exemplo brilhante do poder dos jogos indie em cativar uma audiência massiva.",
         "backgroundPosition": "0 38%"
     },
     "Destaque6": {
         "image":"https://images8.alphacoders.com/132/1329760.jpeg",
         "title": "COUNTER STRIKE 2",
-        "description": " A evolução de um dos shooters competitivos mais influentes da história dos videogames. Counter-Strike, em suas diversas iterações, tem sido um pilar da Steam e do cenário de eSports por décadas. Counter-Strike 2 mantém a essência do combate tático em equipe e continua a dominar os gráficos de jogadores ativos diariamente, sendo consistentemente um dos jogos mais jogados na plataforma. É um ícone da Steam.",
+        "description": " A evolução de um dos shooters competitivos mais influentes da história dos videogames. Counter-Strike tem sido um pilar da Steam e do cenário de eSports por décadas. Counter-Strike 2 mantém a essência do combate tático em equipe e continua a dominar os gráficos de jogadores ativos diariamente, sendo consistentemente o jogo mais jogado da plataforma, o de maior número de recomendações e de reviews positivas. .",
         "backgroundPosition": "0 15%"
     }
 }
