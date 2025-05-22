@@ -34,5 +34,11 @@
         "title": "COUNTER STRIKE 2",
         "description": " A evolução de um dos shooters competitivos mais influentes da história dos videogames. Counter-Strike tem sido um pilar da Steam e do cenário de eSports por décadas. Counter-Strike 2 mantém a essência do combate tático em equipe e continua a dominar os gráficos de jogadores ativos diariamente, sendo consistentemente o jogo mais jogado da plataforma.",
         "backgroundPosition": "0 15%"
+    },
+    "Destaque7": {
+        "image":"https://gameranx.com/wp-content/uploads/2017/03/Outlast-2-4K-Wallpaper.jpg",
+        "title": "OUTLAST",
+        "description": "Um divisor de águas no horror moderno, Outlast redefiniu o medo ao nos colocar na pele de um jornalista indefeso em um manicômio macabro. Sua jogabilidade baseada na câmera com visão noturna, jumpscares brutais e atmosfera sufocante criaram uma experiência de terror visceral que viralizou, provando que um estúdio indie pode entregar sustos de tirar o fôlego.",
+        "backgroundPosition": "0 38%"
     }
 }
